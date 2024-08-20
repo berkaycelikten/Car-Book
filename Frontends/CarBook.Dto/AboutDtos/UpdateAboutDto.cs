@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CarBook.Dto.AboutDtos
+{
+    public class UpdateAboutDto
+    {
+        public int aboutID { get; set; }
+        public string title { get; set; }
+        public string descriptons { get; set; }
+        public string İmageUrl { get; set; }
+    }
+}

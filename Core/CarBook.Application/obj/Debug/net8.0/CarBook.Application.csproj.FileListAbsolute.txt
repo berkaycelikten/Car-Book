@@ -1,0 +1,17 @@
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.deps.json
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.dll
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.pdb
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CopyComplete
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.dll
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\refint\CarBook.Application.dll
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.pdb
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\tatil sitesi template\CarBook\Core\CarBook.Application\obj\Debug\net8.0\ref\CarBook.Application.dll

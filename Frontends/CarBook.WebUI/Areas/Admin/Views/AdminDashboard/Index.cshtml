@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="page-content">
+    <div class="container-fluid">
+        @await Component.InvokeAsync("_AdminDashboardStatisticComponentPartial")
+        <div class="row">
+            @await Component.InvokeAsync("_AdminDashboardChartComponentPartial2")
+            @await Component.InvokeAsync("_AdminDashboardChartComponentPartial")
+            @await Component.InvokeAsync("_AdminDashboardChartComponentPartial3")
+        </div>
+        <div class="row">
+            @await Component.InvokeAsync("_AdminDashboardCarPricingListComponentPartial")
+            @await Component.InvokeAsync("_AdminDashboardBlogListComponentPartial")
+        </div>
+    </div>
+</div>
