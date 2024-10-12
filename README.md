@@ -1,47 +1,34 @@
 Projenin Temel Amacı
 Kullanıcılar, alacakları lokasyona göre uygun araçları listeleyebilir ve istedikleri araca ön kayıt oluşturarak aracı kiralayabilirler.
+
 ASP.NET Core 8.0 Web API ve MVC kullanılarak geliştirdiğim proje, tüm CRUD işlemlerini API üzerinden gerçekleştirir ve bu işlemler MVC tarafında consume edilir. Dinamik veritabanı yönetimi için Entity Framework Code First kullanılmıştır. Onion Architecture mimari yapısı ve CQRS, Mediator, Repository design patternler kullanılarak projede uygulanarak kodun daha modüler ve sürdürülebilir olmasına öncelik verilmiştir.
+
+
 Kullanılan Teknolojiler
-Asp.Net Core 8.0
-Asp.Net Web API
-MSSQL
-Entity Framework Code First
-SignalR
-Json Web Token
-MailKit
-FluentValidation
-Html
-Css
-JavaScript
-Bootstrap
-Frontend
-Html
-Css
-Bootstrap
-JavaScript
-Backend
-C#
-MSSQL
-Swagger
-Öne Çıkan Özellikler
-Uygun lokasyona göre müsait araçları listeleme ve kiralama
-Araçların detaylarını görüntüleme
-Araçlara özellik atama
-MSSQL ilişkili tablolar
-Admin Panel
-SignalR ile canlı veri takibi
-Json Web Token ile Identity güvenliği
-İstatistikler
-Mail Gönderme
-Validation Kontrolleri
-Teknik Özellikler
-MSSQL Veritabanı
-Asp.Net Core 8.0
-Asp.Net Core Web API
-Onion Mimari
-CQRS, Mediator, Repository Dessign Pattern
-Entity Framework Code First LINQ
-SignalR
+-Asp.Net Core 8.0
+-Asp.Net Web API
+-MSSQL
+-Entity Framework Code First
+-SignalR
+-Json Web Token
+-MailKit
+-FluentValidation
+-Html
+-Css
+-JavaScript
+-Bootstrap
+
+Öne Çıkan Özellikler:
+-Uygun lokasyona göre müsait araçları listeleme ve kiralama
+-Araçların detaylarını görüntüleme
+-Araçlara özellik atama
+-MSSQL ilişkili tablolar
+-Admin Panel
+-SignalR ile canlı veri takibi
+-Json Web Token ile Identity güvenliği
+-İstatistikler
+-Mail Gönderme
+-Validation Kontrolleri
 
 ![Uploading Carbook1.png…]()
 ![Carbook2](https://github.com/user-attachments/assets/5d0ada8d-0aa4-4c7f-862a-df4c4dca52ba)
